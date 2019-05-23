@@ -1,0 +1,56 @@
+.header,
+.footer {
+    text-align: right;
+    background: #f0f8ff;
+    padding: 20px 15px;
+}
+
+.footer {
+    text-align: left;
+}
+
+.footer button,
+.header button {
+    padding: 15px 20px;
+    display: inline-block;
+    color: #fff;
+    background: #6495ed;
+    cursor: pointer;
+    font-weight: 400;
+    border-style: outset;
+}
+
+p {
+    background-color: #f5f5dc;
+    line-height: 25px;
+    margin: 0 10px 10px 10px;
+}
+
+p button {
+    background-color: #a52a2a;
+    color: white;
+    cursor: pointer;
+    padding: 3px;
+    font-weight: 400;
+    border-style: outset;
+}
+
+.subscribeButton {
+    color: #1717ff;
+    cursor: pointer;
+    font-weight: 400;
+    border-style: outset;
+}
+
+.body {
+    padding: 15px;
+}
+
+body {
+    margin: 0;
+}
+
+.body>div {
+    border: 1px solid #6495ed;
+    padding: 15px;
+}
