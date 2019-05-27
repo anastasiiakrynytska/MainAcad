@@ -1,0 +1,31 @@
+.container {
+    font-size: 0;
+    background-image: linear-gradient(
+        to right,
+        /* 1st col */
+        darkgrey, 
+        darkgrey 25%,
+        /* end 1st col */
+
+        /* 2nd col */
+        grey 25%,
+        grey 50%,
+        /* end 2nd col */
+
+        /* 3rd col */
+        darkgrey 50%,
+        darkgrey 75%,
+        /* end 3rd col */
+
+        /* 4th col */
+        grey 75%
+    );
+}
+.col {
+    width: 25%;
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: top;
+    padding: 30px 15px;
+    box-sizing: border-box;
+}
