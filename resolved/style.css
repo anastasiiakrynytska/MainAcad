@@ -1,0 +1,33 @@
+.header {
+    padding: 15px;
+    background-color:  #5DCBCF;
+    margin-bottom: 40px;
+}
+.headerButton {
+    background-color: #8719CB;
+    padding: 15px;
+    margin-right: 20px;
+    color: white;
+    display: inline-block;
+    font-size: 16px;
+}
+.sidebar {
+    padding: 15px;
+    background-color: #FAE5C8;
+    width: 400px;   
+}
+.sidebarButton {
+    color: white;
+    background-color: #D8B98D;
+    border: 1px solid #983430;
+    box-sizing: border-box;
+    width: 45%;
+    margin-right: 5%;
+    float: left;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.clear {
+    clear: both;
+  }
