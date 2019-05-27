@@ -1,2 +1,0 @@
-# MainAcad
-HW
